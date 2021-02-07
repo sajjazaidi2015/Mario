@@ -117,9 +117,10 @@ footer{
     padding: 1px;
 
 }
-form{
+form input{
     text-align: center;
-    border: 1px;
-    border-radius: 36px;
+    border: 1px solid #3b3b3b;
+    padding: 10px 5px;
+    border-radius: 10px;
+    width: 250px;
 }
-
